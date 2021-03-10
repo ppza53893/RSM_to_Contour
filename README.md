@@ -1,2 +1,4 @@
 # RSM_to_Contour
-SmartLabの3DExplorerから出力できるテキストをmatplotlibの等高線にするやつ
+SmartLab(Rigaku)の3DExplorerから出力できる逆格子空間マッピングのテキストデータをmatplotlibの等高線にするやつ 
+
+卒研で使ったものです。
